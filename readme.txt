@@ -1,0 +1,1 @@
+https://gadgets.ndtv.com/cryptocurrency/news/cryptocurrency-bitcoin-mining-electronic-waste-energy-consumption-study-2545088
