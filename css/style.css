@@ -136,6 +136,7 @@
     font-family: Helvetica, sans-serif;
     font-weight: 300;
     line-height: 1.6;
+
 }
 
 .article-2{
@@ -197,4 +198,34 @@
     left: calc(50% - 35px);
     padding: 0 20px;
     background-color: #ffffff;
+}
+
+.footer{
+    font-family: "adelle-sans",Helvetica,sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    font-size: 22px;
+    color: #6A6A6A;
+    margin-bottom: 12px;
+    width: 100%;
+    height: 300px;
+    float: left;
+}
+
+.img-2{
+    padding-top: 25px;
+    width: 100%;
+    height: 524px;
+    position: relative;
+}
+
+.link-4{
+    padding-top: 15px;
+    color: #e2127A;
+    font-size: 35px;
+    text-transform: uppercase;
+    float: right;
 }
